@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Daylist</string>
+    <string name="lang_1">Error: No backup found to save</string>
+    <string name="lang_2">Backup saved successfully!</string>
+    <string name="lang_3">Error saving backup</string>
+    <string name="lang_14">Import</string>
+    <string name="lang_15">Reset</string>
+    <string name="lang_16">Version</string>
+    <string name="lang_17">All rights reserved</string>
+    <string name="lang_18">Return</string>
+    <string name="lang_19">A schedule with that name already exists!</string>
+    <string name="lang_20">Rename</string>
+    <string name="lang_21">Add</string>
+    <string name="lang_22">Edit</string>
+    <string name="lang_23">Rename</string>
+    <string name="lang_24">Delete</string>
+    <string name="lang_25">Name</string>
+    <string name="lang_26">Time</string>
+    <string name="lang_27">Task with that name already exists!</string>
+    <string name="lang_28">Task activated</string>
+    <string name="lang_29">Task deactivated</string>
+    <string name="lang_13">Export</string>
+    <string name="lang_4">Backup imported successfully!</string>
+    <string name="lang_5">Error: Invalid backup file</string>
+    <string name="lang_6">Error importing backup</string>
+    <string name="lang_7">Unknown</string>
+    <string name="lang_8">Empty schedule</string>
+    <string name="lang_9">Schedule canceled</string>
+    <string name="lang_10">Schedule started</string>
+    <string name="lang_11">Settings</string>
+    <string name="lang_12">Data Backup</string>
+    <string name="lang_30">Buy Premium Version!</string>
+    <string name="lang_31">Save</string>
+    <string name="lang_32">Timer</string>
+</resources>
